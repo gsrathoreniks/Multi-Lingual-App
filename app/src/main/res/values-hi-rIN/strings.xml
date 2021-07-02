@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multi-Lingual App</string>
+    <string name="english">अंग्रेज़ी</string>
+    <string name="hindi">हिंदी</string>
+    <string name="text">यह एक बहुभाषी ऐप है जिसे <br />गजेंद्र सिंह राठौड़<br /> द्वारा ब्लॉग के लिए बनाया गया है।</string>
+</resources>
